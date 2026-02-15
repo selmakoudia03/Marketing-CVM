@@ -16,8 +16,7 @@
 - [📈 Résultats et Segments](#-résultats-et-segments)
 - [🎨 Visualisations](#-visualisations)
 - [📝 Rapport d'Analyse](#-rapport-danalyse)
-- [🤝 Contributeurs](#-contributeurs)
-- [📄 Licence](#-licence)
+
 
 ---
 
@@ -303,7 +302,7 @@ plt.show()
 
 ## 🏆 Acknowledgments
 
-- **inwi** pour l'accès aux données clientèles
+-
 - **Data Science Community** pour les meilleures pratiques
 - **Scikit-learn Team** pour les outils de machine learning
 
@@ -311,8 +310,6 @@ plt.show()
 
 <div align="center">
 
-**📊 Made with ❤️ for inwi Marketing Analytics 📊**
 
-*Last Updated: February 2026*
 
 </div>
